@@ -1,0 +1,77 @@
+ header li
+{
+    display: inline ;
+    padding: 10px;
+}
+.PG{
+    width: 100%;
+}
+
+body{
+    padding: 10px;
+}
+header a{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(117, 40, 40);
+    text-decoration-line: underline;
+}
+.ba9ara{
+    display: flex;
+    padding-top: 10px;
+    
+}
+body{
+    background-color: #fef7da;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+footer li{
+list-style-type: ;
+}
+footer {
+    display: flex;
+    width: 100%;
+}
+div{
+    width: 100%;
+}
+#amis ul{
+    display: inline-block;
+}
+footer a{
+    color: rgb(117, 40, 40);
+   text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+.francisco{
+    background-image: url("sf.jpg");
+    padding-top: 15%;
+    width: 100%;
+    color: white;
+    display: inline-block;
+}
+
+button{
+    background-color: rgb(117, 40, 40) ;
+    padding: 10px;
+}
+.var{
+    
+}
+.bouton_rouge{
+    background-color: rgb(117, 40, 40);
+    padding: 8px;
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    font-size: 12px;
+}
